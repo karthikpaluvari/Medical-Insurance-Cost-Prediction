@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+dill
+xgboost  # only if used
+lightgbm  # only if used
